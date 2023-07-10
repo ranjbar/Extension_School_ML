@@ -1,0 +1,4 @@
+My Name is Setareh.
+I have a PhD in Stat fron Uni Geneva.
+Currently I am working at CHUV/DP as Biostatistician.
+I do my projects in R and I am mainly working in .Rmd environment.
