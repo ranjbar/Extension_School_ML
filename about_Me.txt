@@ -2,3 +2,9 @@ My Name is Setareh.
 I have a PhD in Stat fron Uni Geneva.
 Currently I am working at CHUV/DP as Biostatistician.
 I do my projects in R and I am mainly working in .Rmd environment.
+
+
+Here is what I expect:
+I feel a need to learn python and did not had the time to learn it alone.
+I wanted to deepen my knowledge on machine learning algorithms. Some I already tried and I have many questions around them so would be nice to have helps for discussion from outside.
+I need practical guidlines in my own projects at work.
